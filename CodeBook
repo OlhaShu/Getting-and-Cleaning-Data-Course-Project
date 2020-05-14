@@ -1,0 +1,8 @@
+the code book describes the variables
+
+
+dATest, dATrain, dSTrain, dSTest, dFTest, dFTrain contain the data from the downloaded files.
+data_Subject, data_Activity, data_Features, data_FeaturesNames, data_Combine, Data  - merge the previous datasets to further analysis
+subdata_FeaturesNames, selected_Names, Data - Features by measurements on the mean and standard deviation
+activity_Labels - descriptive activity name to name the activities in the data set
+Data2, Data5 – output the average of each variable for each activity and each subject
